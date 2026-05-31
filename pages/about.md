@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="/assets/Raptors_Center_Logo_Secondary_and_Accent_Colors.png" %}
+{% include feature/jumbotron.html objectid="/assets/smallbanner.png" %}
 
 ## About Carolina Raptor Center
 The idea for a raptor rehabilitation center in Charlotte, NC hatched in 1975 when an injured Broad-winged Hawk was brought to UNC Charlotte ornithologist Dr. Richard Brown. In 1981, Dr. Brown and student Deb Sue Griffin co-founded the nonprofit that would become the Carolina Raptor Center (CRC).
